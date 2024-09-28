@@ -1,2 +1,0 @@
-# Pathfinder
-Chrome-Extension
